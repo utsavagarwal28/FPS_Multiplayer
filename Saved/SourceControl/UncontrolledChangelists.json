@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JT/ONWO5HN8AB6O19NKSKCT85.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/B2/MKVEIM2273PV81HDW7Z6ME.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/Idle_Rifle_Hip.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset"
+			]
+		}
+	]
+}
