@@ -14,7 +14,13 @@
 				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/Idle_Rifle_Hip.uasset",
-				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset"
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/A_MYCONTENT/Blueprints/BP_47AK.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/IU/HCGWA18ZMOLT875T6RYL4D.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/A_MYCONTENT/Blueprints/BP_PickUpWeapon.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/A_MYCONTENT/BP_PickUPWeapon2.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/A_MYCONTENT/Blueprints/BP_PickUPWeapon2.uasset",
+				"E:/Unreal Projects/Alone Clone Studios/FPS_Multiplayer/Content/A_MYCONTENT/BP_47AK.uasset"
 			]
 		}
 	]
